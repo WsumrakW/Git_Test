@@ -1,2 +1,2 @@
 # Git_Test
-Tes_Repository
+Test_Repository
